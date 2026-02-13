@@ -1,5 +1,11 @@
 # go-system
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/eslider/go-system.svg)](https://pkg.go.dev/github.com/eslider/go-system)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Go](https://img.shields.io/badge/Go-1.22+-00ADD8.svg)](https://go.dev)
+[![Latest Release](https://img.shields.io/github/v/tag/eSlider/go-system?sort=semver&label=release)](https://github.com/eSlider/go-system/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/eSlider/go-system?style=social)](https://github.com/eSlider/go-system/stargazers)
+
 Go library providing OS-level utilities: environment/config loading, shell command execution, file checksums, and debugger detection.
 
 ## Installation
